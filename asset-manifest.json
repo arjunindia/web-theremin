@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-theremin/static/css/main.34a47c05.css",
+    "main.js": "/web-theremin/static/js/main.af9737e9.js",
+    "index.html": "/web-theremin/index.html",
+    "main.34a47c05.css.map": "/web-theremin/static/css/main.34a47c05.css.map",
+    "main.af9737e9.js.map": "/web-theremin/static/js/main.af9737e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a47c05.css",
+    "static/js/main.af9737e9.js"
+  ]
+}
